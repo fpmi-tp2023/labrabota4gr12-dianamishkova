@@ -1,7 +1,5 @@
 ◦ диаграмма вариантов использования, включая пример текстового сценария для одного из вариантов использования; 
 ![70](https://user-images.githubusercontent.com/113173126/226740338-baf54bf6-7719-4915-907d-1985487097f5.png)
-
-
 Редактирование данных о школьнике:
 Актеры: администратор, школьник
 Школьник запрашивает изменение данных о себе, администратор проверяет информацию и вносит изменения.
@@ -10,12 +8,10 @@
 ![71](https://user-images.githubusercontent.com/113173126/226740366-beb526fb-4f31-40eb-8f4c-989abfec4388.png)
 
 ◦ диаграмма классов; 
-https://user-images.githubusercontent.com/113173126/226740380-1141739a-8302-4cb0-9fcf-a285028513ca.png)
-
+![72](https://user-images.githubusercontent.com/113173126/226740675-9020f7c9-b7be-4583-bdc1-2d6101dcd1da.png)
 
 ◦ диаграмма последовательности; 
-https://user-images.githubusercontent.com/113173126/226740404-01cfe98d-4f11-416b-8c4c-178cec305178.png
+![73](https://user-images.githubusercontent.com/113173126/226740686-1b4373ef-07d2-4197-a3bd-9f800d14cf89.png)
 
 ◦ диаграмма компонентов.
-https://user-images.githubusercontent.com/113173126/226740436-0304e084-9f8a-4222-90c6-552940a1636c.png
-
+![74](https://user-images.githubusercontent.com/113173126/226740690-7ca02b08-4695-4166-9563-397ddee041d8.png)
